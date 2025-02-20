@@ -1,5 +1,6 @@
 # DicodingsCollection Dashboard ✨
 
+# Dataset: https://drive.google.com/drive/folders/1PBvnJ96WP7vEXvyxMvKOwW8u5P4sltvc?usp=sharing
 # Project Overview
 This project analyzes an E-Commerce Public Dataset to understand customer payment behavior. The key focus is to explore the relationship between total payment value and the number of payment installments.
 The project includes data analysis, visualization, and a Streamlit dashboard to present insights interactively.
